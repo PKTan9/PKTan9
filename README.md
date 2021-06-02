@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+
+### Hi there 
+<br> I'm Sam. 
+<br> An Student in Business Analytic and DataScience program.
+<br> An Molecular expert & Medical technologist.
+
+  
+<hr width="50%" style="height:5px;">
 
 <!--
 **PKTan9/PKTan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
