@@ -12,7 +12,7 @@
 
 <h3> Fields of Interest </h3>
 <br> Data Science | Machine Learning | Deep Learning |
-<br> Statistics | Maththematic |
+<br> Statistics | Mathematic |
 <br> Camera&Photograph
 
   
